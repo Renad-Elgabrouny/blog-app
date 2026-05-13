@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "email": "renadelgabrouny@students.du.edu.eg",
+      "password": "$2a$10$IUz14.Cpj9njTh0olLj6/u08mi9lbhYGvX2QzQgE7yvynnsjTuBeW",
+      "name": "Renad khaled",
+      "confirmPassword": "12345678",
+      "id": 2
+    },
+    {
+      "email": "renadkhaed@gmail.com",
+      "password": "$2a$10$UZMczVqLYALMUi.PgcRC8.cDWFTv2Y5luNkw5j4xiFCsElRI1PBbi",
+      "name": "Renad Khaled Ahmed",
+      "confirmPassword": "1234567",
+      "id": 3
+    },
+    {
+      "email": "masakhaled521@gmail.com",
+      "password": "$2a$10$6yCft.3AN1fWgcMzbX8V4.rtDPCtyJV6BfIprKkhi8bSOX1gqq3gy",
+      "name": "Masa",
+      "confirmPassword": "1234567",
+      "id": 4
+    },
+    {
+      "email": "esraa@gmail.com",
+      "password": "$2a$10$OpadgYaj./8JBte.Z3PUGO8f/EOXoADP/uPDgGlaDki3Go5oJYSHe",
+      "name": "Esraa",
+      "confirmPassword": "1234567",
+      "id": 5
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "image": "https://www.magnific.com/free-vector/smiling-woman-with-glasses_411961646.htm#fromView=keyword&page=1&position=0&uuid=8b347dfb-716d-4376-b1cb-7dbfa0895eca&query=Avatar+female",
+      "title": "Blog Title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, eaque.",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "image": "https://unsplash.com/photos/a-young-girl-with-long-hair-wearing-a-white-t-shirt-HaNi1rsZ6Nc",
+      "title": "test",
+      "description": "tetststetst",
+      "userId": 3
+    },
+    {
+      "title": "testingg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n",
+      "image": "https://img.magnific.com/premium-vector/man-avatar-profile-picture-isolated-background-avatar-profile-picture-man_1293239-4866.jpg",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "title": "tessttt masa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n",
+      "image": "https://i.pravatar.cc/300",
+      "userId": 4,
+      "id": 5
+    }
+  ]
+}
