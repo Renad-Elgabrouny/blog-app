@@ -1,16 +1,38 @@
-# React + Vite
+# Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple blog application built with React and JSON Server Auth.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User Registration & Login
+- Create, Update, and Delete Blogs
+- Only authenticated users can manage blogs
+- Unauthenticated users can only view blogs
+- User profile page
+- Shows user information and number of created blogs
+- Read More / Show Less for blog descriptions
+- Logout functionality
 
-## React Compiler
+## Run The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Start JSON Server Auth
 
-## Expanding the ESLint configuration
+```bash
+npx json-server-auth src/db.json
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Start React App
+
+```bash
+npm run dev
+```
+
+## Technologies Used
+
+- React
+- React Router
+- DaisyUI
+- Tailwind CSS
+- JSON Server Auth
+- Axios
+```
