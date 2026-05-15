@@ -37,31 +37,52 @@
   "blogs": [
     {
       "id": 1,
-      "image": "https://www.magnific.com/free-vector/smiling-woman-with-glasses_411961646.htm#fromView=keyword&page=1&position=0&uuid=8b347dfb-716d-4376-b1cb-7dbfa0895eca&query=Avatar+female",
-      "title": "Blog Title",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, eaque.",
+      "title": "Getting Started with React in 2026",
+      "description": "React continues to be one of the most popular frontend libraries for building modern web applications. In this blog, we explore the basics of components, props, hooks, and how to structure a scalable React project for beginners.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
       "userId": 2
     },
     {
       "id": 2,
-      "image": "https://unsplash.com/photos/a-young-girl-with-long-hair-wearing-a-white-t-shirt-HaNi1rsZ6Nc",
-      "title": "test",
-      "description": "tetststetst",
+      "title": "10 JavaScript Tips Every Developer Should Know",
+      "description": "JavaScript has evolved rapidly over the years. From destructuring and optional chaining to async/await, these practical tips can help developers write cleaner, more maintainable, and efficient code.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
       "userId": 3
     },
     {
-      "title": "testingg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n",
-      "image": "https://img.magnific.com/premium-vector/man-avatar-profile-picture-isolated-background-avatar-profile-picture-man_1293239-4866.jpg",
-      "userId": 4,
-      "id": 4
+      "id": 3,
+      "title": "Why Tailwind CSS Makes UI Development Faster",
+      "description": "Tailwind CSS has changed the way developers design user interfaces. Its utility-first approach helps speed up development while keeping styling consistent across projects. This article discusses its advantages and best practices.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "userId": 4
     },
     {
-      "title": "tessttt masa",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo aliquam voluptates odio laborum sed soluta animi pariatur, cum veniam illo molestiae? Repellat repellendus dicta nisi deserunt eius, sed sint!\n",
-      "image": "https://i.pravatar.cc/300",
-      "userId": 4,
-      "id": 5
+      "id": 4,
+      "title": "Building a REST API with Node.js and Express",
+      "description": "Node.js and Express provide a lightweight and flexible way to build backend services. In this tutorial, we walk through setting up routes, middleware, authentication, and connecting a database.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "userId": 5
+    },
+    {
+      "id": 5,
+      "title": "Understanding Authentication in MERN Stack",
+      "description": "Authentication is one of the most important parts of web applications. Learn how JWT, bcrypt, and protected routes work together to secure MERN stack applications.",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Best Practices for Clean Code",
+      "description": "Writing clean code is essential for maintainability and collaboration. This article covers naming conventions, reusable functions, component organization, and techniques to improve readability.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "userId": 3
+    },
+    {
+      "id": 8,
+      "title": "Introduction to MongoDB for Beginners",
+      "description": "MongoDB is a NoSQL database widely used with modern JavaScript applications. This guide explains collections, documents, CRUD operations, and how MongoDB integrates with Node.js.",
+      "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+      "userId": 5
     }
   ]
 }

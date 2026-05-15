@@ -8,12 +8,10 @@ export default function Blog(props) {
 
   return (
     <div
-      className={`flex bg-white rounded-2xl overflow-hidden shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300 ${
-        expanded ? "min-h-[260px]" : "h-[260px]"
-      }`}
+      className={`flex bg-white rounded-2xl overflow-hidden shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300 min-h-[260px]`}
     >
       {/* Left Image */}
-      <div className="w-[38%] shrink-0">
+      <div className="w-[38%] shrink-0 self-stretch">
         <img
           src={blog.image}
           alt={blog.title}
@@ -52,7 +50,7 @@ export default function Blog(props) {
         </div>
 
         {/* Bottom */}
-        <div className="flex items-end justify-between mt-4">
+        <div className="flex items-end justify-between mt-6 pt-4">
           
           {/* Author */}
           <div>
